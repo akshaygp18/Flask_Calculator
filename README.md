@@ -14,3 +14,16 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.ineuron.app:5000/
 ```
+# Basic Calculator Flask App
+
+This is a simple Flask application that serves as a basic calculator. The calculator allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division.
+
+# Usage
+
+The calculator has a simple user interface. Simply enter two numbers and select the operation you want to perform. Then click the "Calculate" button to see the result.
+
+
+
+# Acknowledgments
+
+This application was created as a learning exercise using Flask. Thanks to the Flask documentation and community for their helpful resources and guidance.
